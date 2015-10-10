@@ -69,4 +69,4 @@ theme: yilia
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:stariveer/stariveer.github.io.git
+  repository: git@github.com:bingo2o/team_blog.git
